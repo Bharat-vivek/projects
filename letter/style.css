@@ -234,3 +234,8 @@ body {
 .cursor {
     cursor: pointer;
 }
+
+img {
+    height: 264px;
+    width: -10px;
+}
